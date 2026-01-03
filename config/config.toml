@@ -1,0 +1,11 @@
+ServiceHost = "0.0.0.0"
+ServicePort = 8082
+
+# Redis для сессий
+RedisHost = "localhost"
+RedisPort = 6379
+RedisPassword = ""
+RedisDB = 0
+
+# JWT Secret
+JWTSecret = "dehydration-lab4-secret-key-change-in-production"
